@@ -6,3 +6,4 @@
 > Ultimately, this technology shifts modern medicine away from a trial-and-error approach toward proactive, personalized care, significantly reducing human diagnostic error and freeing up critical hospital resources.
 <img width="1792" height="1120" alt="Image" src="https://github.com/user-attachments/assets/ad0465fd-5b83-4ea8-b0ce-c1517b80dd1d" />
 <img width="1792" height="1120" alt="Image" src="https://github.com/user-attachments/assets/f728580c-4f1e-432d-8675-fc62750503e4" />
+<img width="1792" height="1120" alt="Image" src="https://github.com/user-attachments/assets/0b49fa00-306b-4a34-a502-7c547ed210d2" />
