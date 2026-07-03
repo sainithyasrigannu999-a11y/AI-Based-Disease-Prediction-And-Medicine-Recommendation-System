@@ -5,3 +5,4 @@
 > To guarantee maximum patient safety, the system employs advanced filtering constraints that cross-check variables such as patient age, weight, allergies, and existing prescriptions to rule out adverse drug-drug interactions. Furthermore, state-of-the-art implementations leverage Natural Language Processing to scan millions of patient reviews and clinical trial notes, effectively ranking the final list of suggested medications based on real-world efficacy and minimal side-effect profiles.
 > Ultimately, this technology shifts modern medicine away from a trial-and-error approach toward proactive, personalized care, significantly reducing human diagnostic error and freeing up critical hospital resources.
 <img width="1792" height="1120" alt="Image" src="https://github.com/user-attachments/assets/ad0465fd-5b83-4ea8-b0ce-c1517b80dd1d" />
+<img width="1792" height="1120" alt="Image" src="https://github.com/user-attachments/assets/f728580c-4f1e-432d-8675-fc62750503e4" />
